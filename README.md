@@ -1,30 +1,35 @@
 <div align="center">
   
- ![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Box-In-Box&fontSize=30&fontAlign=86&fontAlignY=35&desc=@Box-In-Box&descSize=15&descAlign=90&descAlignY=55&color=gradient)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=3A3A3A&height=200&text=Box-In-Box&fontColor=FFFFFF&fontSize=30&fontAlign=86&fontAlignY=35&desc=@Box-In-Box&descSize=15&descAlign=90&descAlignY=50)
   
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=Box-In-Box&theme=tokyonight&show_icons=true"/>
-  </a>
-  
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Box-In-Box&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"/>
-  </a> 
-  
-  <br />
-  
-  <h3>Language</h3>
+  ### Studying With
   <p>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=Csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-  </p>
-  
-  <h3>Framework</h3>
-  <p>
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">
-    <img src="https://img.shields.io/badge/Android Sutudio-3DDC84?style=flat&logo=android-studio&logoColor=white">
   </p>
   
+  ### Stack
+  <p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+    <br>
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Eclipse-#2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
+  </p>
+  
+  <br><br>
+ 
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Box-In-Box&title_color=FFFFFF&icon_color=FF0000&text_color=AAAAAA&show_icons=true&theme=dark" width=45%/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Box-In-Box&layout=compact&theme=tokyonight&langs_count=8"/>
+  </a> 
   
 </div>
