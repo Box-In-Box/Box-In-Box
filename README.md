@@ -24,7 +24,7 @@
   <br><br>
  
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=Box-In-Box&title_color=FFFFFF&icon_color=FF0000&text_color=AAAAAA&show_icons=true&theme=dark" width=45%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Box-In-Box&title_color=FFFFFF&icon_color=FF0000&text_color=AAAAAA&show_icons=true&theme=dark" width=50%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Box-In-Box&layout=compact&theme=tokyonight&langs_count=8"/>
   </a> 
   
