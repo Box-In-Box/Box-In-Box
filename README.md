@@ -11,7 +11,11 @@
     <br>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+    <br>
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white">
+    <img src="https://img.shields.io/badge/Google Apps Script-4285F4?style=flat&logo=googleappsscript&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -19,6 +23,7 @@
     <br>
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
+    
   </p>
   
   <br><br>
