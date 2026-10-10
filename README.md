@@ -25,12 +25,12 @@
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
     
   </p>
-  
+
   <br><br>
  
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=Box-In-Box&title_color=FFFFFF&icon_color=FF0000&text_color=AAAAAA&show_icons=true&theme=dark" width=54%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Box-In-Box&layout=compact&theme=tokyonight&langs_count=8"/>
+      <!--<img src="https://github-readme-stats.vercel.app/api?username=Box-In-Box&title_color=FFFFFF&icon_color=FF0000&text_color=AAAAAA&show_icons=true&theme=dark" width=54%"/>-->
+      <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Box-In-Box&layout=compact&theme=tokyonight&langs_count=8"/>-->
   </a> 
   
 </div>
